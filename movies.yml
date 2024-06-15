@@ -4,7 +4,7 @@ server:
   port: 9082
 spring:
   application:
-    name: movies
+    name: movie
   profiles:
     active: dev
 eureka:

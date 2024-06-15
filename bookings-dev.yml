@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:h2:mem:customers
-    username: mc9
+    username: sa
     password: sa
     driverClassName: org.h2.Driver
   jpa:
@@ -11,6 +11,6 @@ spring:
       ddl-auto: create
 swagger:
   enabled: true
-  title: bookings
+  title: booking
   description:
   version: 1.0

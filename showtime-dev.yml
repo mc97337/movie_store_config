@@ -11,6 +11,6 @@ spring:
       ddl-auto: create
 swagger:
   enabled: true
-  title: movies
+  title: movie
   description:
   version: 1.0

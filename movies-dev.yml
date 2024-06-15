@@ -11,6 +11,6 @@ spring:
       ddl-auto: create
 swagger:
   enabled: true
-  title: showtimes
+  title: showtime
   description:
   version: 1.0

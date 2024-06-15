@@ -4,7 +4,7 @@ server:
   port: 9083
 spring:
   application:
-    name: showtimes
+    name: showtime
   profiles:
     active: dev
 eureka:
